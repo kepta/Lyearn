@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name lyearnApp
+ * @name lyearn2App
  * @description
- * # lyearnApp
+ * # lyearn2App
  *
  * Main module of the application.
  */
 angular
-  .module('lyearnApp', [
+  .module('lyearn2App', [
     'ngAnimate',
     'ngAria',
     'ngCookies',
